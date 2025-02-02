@@ -9,3 +9,5 @@ Chaque kit se compose de trois fichiers :
 - un fichier .txt contenant l'ensemble du lexique, une entrée par ligne, en minuscules et avec accents
 - un fichier .txt contenant l'ensemble du lexique, une entrée par ligne, en MAJUSCULES et AVEC accents
 - un fichier .txt contenant l'ensemble du lexique, une entrée par ligne, en MAJUSCULES et SANS accents
+
+Enjoy!
